@@ -1,3 +1,3 @@
 # Github-basics
 
-[how are you doing](hahaha)
+[how are you doing](http://google.com)
